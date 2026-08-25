@@ -1,4 +1,4 @@
-### 💻 SMR-OS (IN DEVELOPMENT
+### 💻 SMR-OS (IN DEVELOPMENT)
 
 A 100% open-source, fast, and lightweight Operating System built completely from scratch for modern UEFI hardware. 
 
