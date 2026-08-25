@@ -15,6 +15,6 @@ SMR-OS is designed to be a clean, high-performance alternative to modern heavy o
 
 ### 🚧 Roadmap
 
-* [x] **UEFI Boot Support** – Natively starting on real physical hardware.
+* [ ] **UEFI Boot Support** – Natively starting on real physical hardware.
 * [ ] **Graphics Engine** – Turning on the screen pixels and pixels rendering.
 * [ ] **The Desktop Experience** – Designing a user interface with a Start Menu.
